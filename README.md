@@ -32,7 +32,7 @@ No Python needed if you use the compiled `.exe`.
 
 ```bash
 pip install pygame pillow websockets
-python golden_dance.py
+python goldship_dance.py
 ```
 ### Run with Release
 
