@@ -5,15 +5,6 @@ GIF in sync with osu! music BPM using StreamCompanion
 
 ---
 
-## Features
-
-- Reads current BPM via StreamCompanion WebSocket
-- GIF animation synced to the music beat
-- Toggle BPM display on/off
-- Can be compiled into a console-free `.exe`
-
----
-
 ## Requirements
 
 - [StreamCompanion](https://github.com/Piotrekol/StreamCompanion) running locally
