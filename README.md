@@ -16,7 +16,7 @@ GIF in sync with osu! music BPM using StreamCompanion
 
 ## Requirements
 
-- StreamCompanion running locally
+- [StreamCompanion](https://github.com/Piotrekol/StreamCompanion) running locally
 - Python 3.10+ (only if running the script)
 - Python libraries:
   - pygame
