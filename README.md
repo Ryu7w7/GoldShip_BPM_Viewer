@@ -1,6 +1,6 @@
 # Gold Dance
 
-Animate a GIF in sync with osu! music BPM using StreamCompanion
+GIF in sync with osu! music BPM using StreamCompanion
 ![](https://i.imgur.com/UnHoFzL.gif)
 
 ---
